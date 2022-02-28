@@ -28,7 +28,7 @@ class ApplicationController extends Controller
         $this->view->setLayout('indexLayout'); //arribem a views/scripts/application/index.phtml";
         //render the view using the proper view script
         //$this->view->render('/task/index.phtml');
-       
+       //salkdnfslkfn
     } 
 
     public function addAction()
