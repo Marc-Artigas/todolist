@@ -120,5 +120,11 @@ class ApplicationController extends Controller
 
      }
 
+     public function b()
+     {
+        echo "sdf";
+
+     }
+
 
 }
